@@ -7,4 +7,9 @@ A5/1
 - GSM 휴대폰 체계에 사용
 - X(19 bits), Y(22 bits), Z(23 bits) 3개의 시프트레지스터로 구성
 - 64bits 키
--  
+
+AES
+
+DES
+
+RSA
